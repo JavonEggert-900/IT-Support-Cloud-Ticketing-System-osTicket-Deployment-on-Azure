@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project demonstrates the full end-to-end deployment of osTicket — a widely used open source help desk ticketing system — on a Windows 10 Virtual Machine hosted in Microsoft Azure. Rather than simply using a ticketing system, this project builds one from the ground up: provisioning cloud infrastructure, configuring a web server, installing dependencies, setting up a database, and configuring the ticketing system as both an administrator and an end user. Every step mirrors what IT support professionals and cloud engineers encounter in real business environments.
+This project demonstrates the full end-to-end deployment of osTicket, a widely used open source help desk ticketing system hosted on a Windows 10 Virtual Machine hosted in Microsoft Azure. Rather than simply using a ticketing system, this project builds one from the ground up: provisioning cloud infrastructure, configuring a web server, installing dependencies, setting up a database, and configuring the ticketing system as both an administrator and an end user. Every step mirrors what IT support professionals and cloud engineers encounter in real business environments.
 
 # Environments and Technologies Used
 
