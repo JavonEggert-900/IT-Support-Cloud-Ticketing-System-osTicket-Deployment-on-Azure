@@ -1,7 +1,7 @@
 # IT Support & Cloud Ticketing System — osTicket Deployment on Azure
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/523c00b3-1762-47b3-a05c-58e8b1774959" alt="VM Creation in Azure Portal" width="80%"/>
+<img src="https://github.com/user-attachments/assets/05f9da8c-13e8-4464-923a-cfcab0176913" alt="osTicket Logo" width="60%"/>
 </p>
 
 ## Project Overview
